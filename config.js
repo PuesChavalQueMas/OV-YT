@@ -2,7 +2,7 @@
 export default {
     bot: {
         // Owner principal (PN). En v7 también se soporta LID automáticamente.
-        owner: '593978971824@s.whatsapp.net',
+        owner: 'number@s.whatsapp.net',
 
         // Prefijos de comandos
         prefix: {
