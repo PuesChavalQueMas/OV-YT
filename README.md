@@ -61,7 +61,7 @@ Edita el archivo `config.js` e introduce tu número telefónico principal con c�
 // config.js
 export default {
     bot: {
-        owner: '593XXXXXXXXX@s.whatsapp.net', // Tu número en formato WhatsApp JID
+        owner: '34XXXXXXXXX@s.whatsapp.net', // Tu número en formato WhatsApp JID
         prefix: {
             toggle: '.',
             public: ['.say', '.yt', '.play', '.p']
