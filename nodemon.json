@@ -1,0 +1,6 @@
+{
+  "watch": ["index.js", "handlers", "config.js"],
+  "ext": "js",
+  "delay": 3500,
+  "signal": "SIGTERM"
+}
