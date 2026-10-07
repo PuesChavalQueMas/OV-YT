@@ -257,7 +257,6 @@ class Bot {
 
             console.log('════════════════════════════════════════');
             console.log('  ESCRIBE TU NÚMERO (solo dígitos)');
-            console.log('  Ecuador → 593978619941');
             console.log('  México  → 5215512345678');
             console.log('  España  → 34612345678');
             console.log('════════════════════════════════════════\n');
